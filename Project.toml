@@ -1,0 +1,13 @@
+name = "MyExample"
+uuid = "f9adebf2-4efe-4d1c-8447-c5ef853d76cf"
+authors = ["Gianluca Grosso <gianluca.grosso@campus.lmu.de> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
