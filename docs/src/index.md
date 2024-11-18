@@ -13,3 +13,9 @@ Package to test documentation.
 ```julia-repl
 pkg> add MyExample
 ```
+
+# References
+
+[Xfac paper](@cite fernández2024learningtensornetworkstensor)
+```@bibliography
+```
