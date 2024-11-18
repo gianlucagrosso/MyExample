@@ -6,9 +6,10 @@ CurrentModule = MyExample
 
 Documentation for [MyExample](https://github.com/gianlucagrosso/MyExample.jl).
 
-```@index
-```
+Package to test documentation.
 
-```@autodocs
-Modules = [MyExample]
+# Install 
+
+```julia-repl
+pkg> add MyExample
 ```
